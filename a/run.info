@@ -1,0 +1,5 @@
+param	value
+cmd_line	/data1/softwares/cufflinks-2.2.1.Linux_x86_64/cuffdiff -p 15 -o cuffdiffout /data2/trainee/cuffmerge/cuffmergeout/merged.gtf /data2/trainee/tophat/tophatout_12thday/accepted_hits.bam, /data2/trainee/tophat/tophatout_15thday/accepted_hits.bam, /data2/trainee/tophat/tophatout_3rdday/accepted_hits.bam, /data2/trainee/tophat/tophatout_6thday/accepted_hits.bam, /data2/trainee/tophat/tophatout_Pro/accepted_hits.bam, /data2/trainee/tophat/tophatout_SS/accepted_hits.bam 
+version	2.2.1
+SVN_revision	4237
+boost_version	104700

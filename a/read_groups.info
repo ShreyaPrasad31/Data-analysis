@@ -1,0 +1,7 @@
+file	condition	replicate_num	total_mass	norm_mass	internal_scale	external_scale
+/data2/trainee/tophat/tophatout_12thday/accepted_hits.bam	q1	0	2.54739e+06	2.30399e+06	1.14946	1
+/data2/trainee/tophat/tophatout_15thday/accepted_hits.bam	q2	0	2.6104e+06	2.30399e+06	1.23923	1
+/data2/trainee/tophat/tophatout_3rdday/accepted_hits.bam	q3	0	2.49027e+06	2.30399e+06	0.959638	1
+/data2/trainee/tophat/tophatout_6thday/accepted_hits.bam	q4	0	2.02114e+06	2.30399e+06	0.828861	1
+/data2/trainee/tophat/tophatout_Pro/accepted_hits.bam	q5	0	2.41303e+06	2.30399e+06	1.09168	1
+/data2/trainee/tophat/tophatout_SS/accepted_hits.bam	q6	0	1.91789e+06	2.30399e+06	0.84836	1
